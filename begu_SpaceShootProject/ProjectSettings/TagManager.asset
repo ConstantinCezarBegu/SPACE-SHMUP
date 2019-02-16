@@ -4,12 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Hero
   - Enemy
-  - ProjectileHero
   - ProjectileEnemy
   - PowerUp
   - PowerUpBox
+  - ProjectilePlayer
   layers:
   - Default
   - TransparentFX
@@ -19,9 +18,9 @@ TagManager:
   - UI
   - 
   - 
-  - Hero
+  - Player
   - Enemy
-  - ProjectileHero
+  - ProjectilePlayer
   - ProjectileEnemy
   - PowerUp
   - 

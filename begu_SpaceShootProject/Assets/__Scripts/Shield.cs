@@ -13,7 +13,7 @@ public class Shield : MonoBehaviour
         mat = GetComponent<Renderer>().material; 
     }
     void Update() {   
-        int currLevel = Mathf.FloorToInt(Hero.S.shieldLevel);  
+        int currLevel = Mathf.FloorToInt(Player.S.shieldLevel);  
         if (levelShown != currLevel)
         {
             levelShown = currLevel;   
