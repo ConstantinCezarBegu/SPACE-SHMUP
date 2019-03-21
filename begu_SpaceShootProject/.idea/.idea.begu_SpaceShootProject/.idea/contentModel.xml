@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\const\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\const\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_begu_SpaceShootProject.-1642465795.00" t="ExcludeRecursive" />
+    <e p="C:\Users\const\Documents\UnityClass\SPACE-SHMUP\begu_SpaceShootProject" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="__Scripts" t="Include">
+          <e p="BoundsCheck.cs" t="Include" />
+          <e p="Enemy.cs" t="Include" />
+          <e p="Enemy_1.cs" t="Include" />
+          <e p="Enemy_2.cs" t="Include" />
+          <e p="Enemy_3.cs" t="Include" />
+          <e p="Enemy_4.cs" t="Include" />
+          <e p="Main.cs" t="Include" />
+          <e p="Parallax.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="PowerUp.cs" t="Include" />
+          <e p="Projectile.cs" t="Include" />
+          <e p="Shield.cs" t="Include" />
+          <e p="Utils.cs" t="Include" />
+          <e p="Weapon.cs" t="Include" />
+        </e>
+        <e p="_Materials" t="Include">
+          <e p="UnlitAlpha.shader" t="Include" />
+        </e>
+      </e>
+      <e p="begu_SpaceShootProject.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
